@@ -1,3 +1,4 @@
 # exercice-repo
 Repo made for exercice
-Conclict is over /Chuck Norris/!
+Conflict is over /Chuck Norris/!
+This jokes are awfull
