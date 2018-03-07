@@ -1,3 +1,3 @@
 # exercice-repo
 Repo made for exercice
-We hate changes, dude!
+Conclict is over /Chuck Norris/.
