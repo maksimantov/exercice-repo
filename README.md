@@ -1,3 +1,3 @@
 # exercice-repo
 Repo made for exercice
-Changes? I don't think so!
+I don't think so!
